@@ -21,3 +21,5 @@ Key Components and Functionality:
 Overall, the project efficiently displays Henderson, Nevada, on a map with key information presented through a popup template. It avoids redundancy by storing coordinates in variables and leverages the capabilities of the ArcGIS API for JavaScript to create an engaging and informative mapping experience.
 
 ![image](https://github.com/bec-in-tech/GEOG863-Plot-Your-Hometown/assets/120440399/9ebb6f9d-07a0-42d7-a35a-cdc5d5ac14f8)
+
+This interactive map can also be displayed in CodePen: https://codepen.io/rmu5072/pen/zYJLaoE
