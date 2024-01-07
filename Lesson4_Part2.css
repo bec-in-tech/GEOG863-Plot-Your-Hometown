@@ -1,0 +1,15 @@
+html,
+body,
+#viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 92%;
+  width: 100%;
+}
+
+#summaryDiv {
+  font-size: 14px;
+  margin: 10px;
+  background-color: WhiteSmoke;
+  }
+}
