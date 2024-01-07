@@ -22,4 +22,4 @@ Overall, the project efficiently displays Henderson, Nevada, on a map with key i
 
 ![image](https://github.com/bec-in-tech/GEOG863-Plot-Your-Hometown/assets/120440399/9ebb6f9d-07a0-42d7-a35a-cdc5d5ac14f8)
 
-This interactive map can also be displayed in CodePen: https://codepen.io/rmu5072/pen/zYJLaoE
+This interactive map can also be viewed in CodePen: https://codepen.io/rmu5072/pen/zYJLaoE
