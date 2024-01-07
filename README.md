@@ -1,10 +1,10 @@
 # GEOG863 - Plot Your Hometown
 
-Description of the Project:
+<b>Description of the Project:</b>
 
 This project utilizes the ArcGIS API for JavaScript to create an interactive map showcasing specific geographic coordinates, in this case, representing the city of Henderson, Nevada. The main objective of the project is to efficiently display a map centered on Henderson while providing additional information about the city.
 
-Key Components and Functionality:
+<b>Key Components and Functionality:</b>
 
 1. Map and MapView Creation: The code initializes a new Map object with the terrain basemap and creates a MapView object, specifying the HTML container where the map should be displayed. The map is centered on Henderson with a predefined zoom level.
 
