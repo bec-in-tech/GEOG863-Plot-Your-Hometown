@@ -1,4 +1,4 @@
-# GEOG863 - Plot Your Hometown
+# GEOG863: Plot Your Hometown
 
 <b>Description of the Project:</b>
 
@@ -22,4 +22,8 @@ Overall, the project efficiently displays Henderson, Nevada, on a map with key i
 
 ![image](https://github.com/bec-in-tech/GEOG863-Plot-Your-Hometown/assets/120440399/9ebb6f9d-07a0-42d7-a35a-cdc5d5ac14f8)
 
-This interactive map can also be viewed in CodePen: https://codepen.io/rmu5072/pen/zYJLaoE
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="zYJLaoE" data-user="rmu5072" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rmu5072/pen/zYJLaoE">
+  hello_map_2</a> by Rebecca U (<a href="https://codepen.io/rmu5072">@rmu5072</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
